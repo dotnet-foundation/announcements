@@ -6,12 +6,7 @@ All items posted to this repo are locked, but will typically have links to separ
 
 ## Process
 
-Since this repository is for announcements only, we do not accept issues or PRs on this repository. Furthermore, we'll usually not close any issues either. We will, however, close issues that have become invalid as we changed our mind and didn't end up implementing or shipping it.
-
-Not closing issues has the following advantages:
-
-* You can distinguish between what's not true (retracted) and what's just old
-* You can easily search the announcements and filter without having to consider closed issues
+Since this repository is for announcements only, we do not accept issues or PRs on this repository. Open issues signify open discussions. We will close issues once the discussion is no longer active.
 
 ## Receiving Notifications
 
